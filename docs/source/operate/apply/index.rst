@@ -8,6 +8,7 @@ Receives data from multiple sensors and cameras attached to the robot
 .. toctree::
 
      air/index
+     uvc
+     led
      sonar
-     io/index
      camera
