@@ -1,7 +1,7 @@
 Mapping
 ==========================
 
-Creating maps for automated driving
+The SLAM function is used to perform the mapping work required for autonomous driving.
 
 --------------------------------------------------------------------------
 
