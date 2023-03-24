@@ -32,6 +32,8 @@ Welcome! This is a place to introduce Zeta Bank's robots!
     :caption: LET'S APPLY OUR KNOWLEDGE
 
     operate/apply/index
+    operate/driving/index
+    operate/charge/index
 
 
 
