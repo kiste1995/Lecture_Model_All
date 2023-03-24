@@ -59,7 +59,7 @@ Carrying out automatic parking to the charging station
 ------------------------------------------------------------------------------------
 
 .. list-table:: 
-    :header-rows: 3
+    :header-rows: 1
 
     * - .. thumbnail:: /_images/lecture/purple.jpg
             :width: 300
