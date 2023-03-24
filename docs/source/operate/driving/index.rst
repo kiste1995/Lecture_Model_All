@@ -7,6 +7,5 @@ Functions related to autonomous driving of robots are explained.
 
      operation/index
      mapping
-     amcl
      navigation/index
 
