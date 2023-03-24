@@ -7,4 +7,5 @@ Describes how the robot can be operated manually to lay the groundwork for auton
 
      teleop
      motion
+     estop
 
