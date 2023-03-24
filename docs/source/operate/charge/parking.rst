@@ -59,10 +59,9 @@ Carrying out automatic parking to the charging station
 ------------------------------------------------------------------------------------
 
 .. list-table:: 
-    :header-rows: 3
+    :header-rows: 1
 
     * - .. thumbnail:: /_images/lecture/purple.jpg
       - .. thumbnail:: /_images/lecture/green.jpg
     * - When a charging command is received, the LED changes to purple and moves in front of the station.
       - When docking is complete, the color of the led changes according to the robot's current battery level.
-      - sdkfjlsfjeklf
