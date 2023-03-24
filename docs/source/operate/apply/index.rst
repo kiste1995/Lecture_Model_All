@@ -1,10 +1,13 @@
-Auto Run
+Check robot status
 ==================
 
-How to start scheduling automatically when the robot starts up
-Additional explanation needed to manage the robot
+The state of the robot can be visually checked from the outside.
+
+Receives data from multiple sensors and cameras attached to the robot
 
 .. toctree::
 
-     Administrator manual/index
-     Normal User manual/index
+     air/index
+     sonar/index
+     io/index
+     camera/index
