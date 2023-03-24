@@ -58,14 +58,15 @@ Carrying out automatic parking to the charging station
 
 ------------------------------------------------------------------------------------
 
-.. list-table:: 
-    :header-rows: 1
+.. list-table::
 
     * - .. thumbnail:: /_images/lecture/purple.jpg
-            :width: 300
-            :height: 100
+            :group: basic1
       - .. thumbnail:: /_images/lecture/green.jpg
-            :width: 300
-            :height: 100
-    * - When a charging command is received, the LED changes to purple and moves in front of the station.
-      - When docking is complete, the color of the led changes according to the robot's current battery level.
+            :group: basic1
+
+- When a charging command is received, the LED changes to purple and moves in front of the station.
+- When docking is complete, the color of the led changes according to the robot's current battery level.
+- Full Bat State : Green
+- Middle Bat State : Yellow Blink
+- Low Bat State : Red Blink
