@@ -8,6 +8,6 @@ Receives data from multiple sensors and cameras attached to the robot
 .. toctree::
 
      air/index
-     sonar/index
+     sonar
      io/index
-     camera/index
+     camera
