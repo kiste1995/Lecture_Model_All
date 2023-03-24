@@ -1,12 +1,10 @@
-Robot Autonomous driving
+Manual Operation
 ==================
 
-Functions related to autonomous driving of robots are explained.
+Describes how the robot can be operated manually to lay the groundwork for autonomous driving.
 
 .. toctree::
 
-     operation/index
-     mapping
-     amcl
-     navigation/index
+     teleop
+     motion
 
