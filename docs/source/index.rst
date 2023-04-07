@@ -35,6 +35,14 @@ Welcome! This is a place to introduce Zeta Bank's robots!
     operate/driving/index
     operate/charge/index
 
+.. toctree:: 
+    :maxdepth: 5
+    :hidden:
+    :caption: How to operate
+
+    operate/gui/index
+    operate/autorun/index
+
 
 
 
