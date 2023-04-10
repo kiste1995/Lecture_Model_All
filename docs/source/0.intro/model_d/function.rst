@@ -2,7 +2,7 @@ Functions
 ====================================================
 
 
-Introducing the functions of the Untact service robot. 
+Introducing the functions of the Green robot. 
 You can check the features below.
 
 .. raw:: html

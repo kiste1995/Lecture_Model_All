@@ -1,9 +1,10 @@
 Model D
 ==================
 
-The state of the robot can be visually checked from the outside.
+Welcome to ZetaBank Green Robot!
 
-Receives data from multiple sensors and cameras attached to the robot
+If you need periodic disinfection in a large space, try Green robot.
+The Green robot is called Model D.
 
 .. toctree::
 
