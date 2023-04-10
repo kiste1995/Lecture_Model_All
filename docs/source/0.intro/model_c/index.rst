@@ -1,9 +1,10 @@
 Model C
 ==================
 
-The state of the robot can be visually checked from the outside.
+Welcome to ZetaBank Untact Service Robot!
 
-Receives data from multiple sensors and cameras attached to the robot
+To introduce someone to Information about an Event, try a Untact Service Robot.
+The Untact service robot is called Model C.
 
 .. toctree::
 
