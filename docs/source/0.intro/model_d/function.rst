@@ -2,10 +2,8 @@ Functions
 ====================================================
 
 
-Welcome to ZetaBank Untact Service Robot!
-
-To introduce someone to Information about an Event, try a Untact Service Robot.
-The Untact service robot is called Model C.
+Introducing the functions of the Untact service robot. 
+You can check the features below.
 
 .. raw:: html
 
