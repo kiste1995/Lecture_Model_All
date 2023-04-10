@@ -31,9 +31,8 @@ Welcome! This is a place to introduce Zeta Bank's robots!
     :hidden:
     :caption: LET'S APPLY OUR KNOWLEDGE
 
-    operate/apply/index
-    operate/driving/index
-    operate/charge/index
+    operate/model_c/index
+    operate/model_d/index
 
 .. toctree:: 
     :maxdepth: 5
