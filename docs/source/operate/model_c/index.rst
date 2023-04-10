@@ -1,12 +1,12 @@
-Practice using Model C
+Model C
 ==================
 
-It is time to operate the functions directly using the GUI of Model C.
+Let's practice using the GUI of Model C.
 
 .. toctree::
 
-     air/index
-     uvc
-     led
-     sonar
-     camera
+     apply/air/index
+     apply/uvc
+     apply/led
+     apply/sonar
+     apply/camera
