@@ -1,8 +1,8 @@
 Model C Operate
 ==================
 
-1. Explain how the manager operates the robot using GUI
-2. Explain how normal users can turn it on via autorun
+1. How to operate the robot using GUI
+2. How to autorun a robot
 
 .. toctree::
 
