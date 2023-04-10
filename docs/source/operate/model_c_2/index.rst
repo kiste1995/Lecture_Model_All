@@ -1,4 +1,4 @@
-Model C Operate
+Model C
 ==================
 
 1. How to operate the robot using GUI
