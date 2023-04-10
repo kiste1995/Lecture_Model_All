@@ -18,13 +18,13 @@ Welcome! This is a place to introduce Zeta Bank's robots!
 2. Model D - In some places, wet disinfection is carried out by spraying disinfectant solutions, and dry disinfection is carried out using UV lamps and air purification functions.
 
 .. toctree:: 
-    :caption: Model C - Untact service
+    :caption: Untact service
     :maxdepth: 1
     :hidden:
     :titlesonly: 
 
-    0.intro/introduction
-    0.intro/operate
+    0.intro/model_c/index
+    0.intro/model_d/index
 
 .. toctree:: 
     :maxdepth: 5
