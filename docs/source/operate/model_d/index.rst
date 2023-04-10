@@ -1,12 +1,10 @@
-Practice using model c
+Model D
 ==================
 
-It is time to operate the functions directly using the GUI of Model C.
+Let's practice using the GUI of Model D.
 
 .. toctree::
 
-     air/index
-     uvc
-     led
-     sonar
-     camera
+     apply/index
+     driving/index
+     charge/index
