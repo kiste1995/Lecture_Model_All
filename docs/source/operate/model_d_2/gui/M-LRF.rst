@@ -9,12 +9,12 @@ Mixed conversion of measurement data
 
 **GUI execution screen when button is clicked**
 
-.. thumbnail:: /_images/start_gui/MLRF.png
+.. thumbnail:: /_images/model_d/MLRF.png
 
-.. thumbnail:: /_images/start_gui/MLRF2.png
+.. thumbnail:: /_images/model_d/MLRF2.png
 
 --------------------------------------------------------------------------
 
 **Terminal execution screen when button is clicked**
 
-.. thumbnail:: /_images/start_gui/MLRF3.png
+.. thumbnail:: /_images/model_d/MLRF3.png
