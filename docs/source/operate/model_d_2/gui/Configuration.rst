@@ -5,7 +5,7 @@ Configuration
 
 **GUI execution screen when button is clicked**
 
-.. thumbnail:: /_images/start_gui/configuration.png
+.. thumbnail:: /_images/model_d/configuration.png
 
 --------------------------------------------------------------------------
 
