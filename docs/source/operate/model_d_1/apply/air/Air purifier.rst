@@ -7,12 +7,13 @@ Air purifier operation
 
 **GUI execution screen when button is clicked**
 
-.. thumbnail:: /_images/start_gui/airpuri1.png
+.. thumbnail:: /_images/model_d/airpuri1.png
 
-.. thumbnail:: /_images/start_gui/airpuri2.png
+.. thumbnail:: /_images/model_d/airpuri2.png
     :width: 300
     :height: 100
 
+- Display Air-Purifier ON phrase in robot status
 - Puri Led lights green
 
 --------------------------------------------------------------------------
@@ -21,14 +22,14 @@ Air purifier operation
 
 .. list-table::
 
-    * - .. thumbnail:: /_images/start_gui/airpuri3.png
+    * - .. thumbnail:: /_images/model_d/airpuri3.png
             :group: basic1
-      - .. thumbnail:: /_images/start_gui/airpuri5.png
+      - .. thumbnail:: /_images/model_d/airpuri5.png
             :group: basic1
-      - .. thumbnail:: /_images/start_gui/airpuri6.png
+      - .. thumbnail:: /_images/model_d/airpuri6.png
             :group: basic1
 
-.. thumbnail:: /_images/start_gui/airpuri4.png
+.. thumbnail:: /_images/model_d/airpuri4.png
     :width: 300
     :height: 100
 
@@ -39,7 +40,7 @@ Air purifier operation
 
 **Air purifier speed OFF**
 
-.. thumbnail:: /_images/start_gui/airpuri7.png
+.. thumbnail:: /_images/model_d/airpuri7.png
 
 - Display Air-Purifier OFF phrase in robot status
 - Puri Led off
