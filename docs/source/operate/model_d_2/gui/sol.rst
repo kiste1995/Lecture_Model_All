@@ -11,9 +11,9 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 
 **Executing the SOL function**
 
-.. thumbnail:: /_images/start_gui/sol.png
+.. thumbnail:: /_images/model_d/sol.png
 
-.. thumbnail:: /_images/start_gui/sol2.png
+.. thumbnail:: /_images/model_d/sol2.png
     :width: 200
     :height: 100     
 
@@ -23,7 +23,7 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 
 ------------------------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/sol3.png
+.. thumbnail:: /_images/model_d/sol3.png
 
 - The phrase mode:Sol is printed in the terminal.
 
@@ -31,9 +31,9 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 
 **Executing the PUMP function**
 
-.. thumbnail:: /_images/start_gui/sol4.png
+.. thumbnail:: /_images/model_d/sol4.png
 
-.. thumbnail:: /_images/start_gui/sol5.png
+.. thumbnail:: /_images/model_d/sol5.png
     :width: 200
     :height: 100      
 
@@ -43,7 +43,7 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 
 ------------------------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/sol6.png
+.. thumbnail:: /_images/model_d/sol6.png
 
 - The phrase mode:Pump is printed in the terminal.
 
@@ -55,25 +55,25 @@ Below, the method of dispensing the disinfectant solution is explained in order.
 
 - Run the dispensing process in reverse order.
 
-.. thumbnail:: /_images/start_gui/sol7.png
+.. thumbnail:: /_images/model_d/sol7.png
 
-.. thumbnail:: /_images/start_gui/sol8.png
+.. thumbnail:: /_images/model_d/sol8.png
     :width: 200
     :height: 100 
 
-.. thumbnail:: /_images/start_gui/sol9.png
+.. thumbnail:: /_images/model_d/sol9.png
 
 - Stop using the pump first.
 
 ------------------------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/sol10.png
+.. thumbnail:: /_images/model_d/sol10.png
 
-.. thumbnail:: /_images/start_gui/sol11.png
+.. thumbnail:: /_images/model_d/sol11.png
     :width: 200
     :height: 100  
 
-.. thumbnail:: /_images/start_gui/sol12.png
+.. thumbnail:: /_images/model_d/sol12.png
 
 - When the use of the sol function is stopped, the whole process is finished.
 
