@@ -7,9 +7,9 @@ Specifying the initial coordinates of the robot
 
 **GUI execution screen when button is clicked**
 
-.. thumbnail:: /_images/start_gui/initpos.png
+.. thumbnail:: /_images/model_d/initpos.png
 
-.. thumbnail:: /_images/start_gui/initpos2.png
+.. thumbnail:: /_images/model_d/initpos2.png
     :width: 300
     :height: 100
 
@@ -17,10 +17,10 @@ Specifying the initial coordinates of the robot
 
 **Terminal execution screen when button is clicked**
 
-.. thumbnail:: /_images/start_gui/initpos3.png
+.. thumbnail:: /_images/model_d/initpos3.png
 
 --------------------------------------------------------------------------
 
 **RVIZ execution screen when button is clicked**
 
-.. thumbnail:: /_images/start_gui/initpos4.png
+.. thumbnail:: /_images/model_d/initpos4.png
