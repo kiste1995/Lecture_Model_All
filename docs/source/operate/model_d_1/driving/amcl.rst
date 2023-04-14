@@ -9,8 +9,8 @@ Based on the coordinates obtained using this function, set the coordinates of th
 
 **GUI execution screen when button is clicked**
 
-.. thumbnail:: /_images/start_gui/amcl.png
+.. thumbnail:: /_images/model_d/amcl.png
 
 --------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/amcl2.png
+.. thumbnail:: /_images/model_d/amcl2.png
