@@ -13,20 +13,20 @@ It works when you hold down the button, and stops when you release it.
 - i / , : Increase/decrease linear velocity
 - o / . : Increase/decrease angular velocity
 
-.. thumbnail:: /_images/start_gui/motion.png
+.. thumbnail:: /_images/model_d/motion.png
 
-.. thumbnail:: /_images/start_gui/motion2.png
+.. thumbnail:: /_images/model_d/motion2.png
 
 ----------------------------------------------------------------------------------
 
 - Init Value Botton : Initialization of linear velocity and angular velocity
 
-.. thumbnail:: /_images/start_gui/motion3.png
+.. thumbnail:: /_images/model_d/motion3.png
 
 -----------------------------------------------------------------------------------
 
 - Init Angle : Manually change the robot's heading angle
 
-.. thumbnail:: /_images/start_gui/motion4.png
+.. thumbnail:: /_images/model_d/motion4.png
 
-.. thumbnail:: /_images/start_gui/motion5.png
+.. thumbnail:: /_images/model_d/motion5.png
