@@ -7,9 +7,9 @@ Automatic execution of packages for robot driving
 
 **Press Ready button**
 
-.. thumbnail:: /_images/start_gui/autorun.png
+.. thumbnail:: /_images/model_d/autorun.png
 
-.. thumbnail:: /_images/start_gui/autorun2.png
+.. thumbnail:: /_images/model_d/autorun2.png
     :width: 300
     :height: 100
 
@@ -19,44 +19,44 @@ Automatic execution of packages for robot driving
 
 **1. Bringup**
 
-.. thumbnail:: /_images/start_gui/autorun3.png
+.. thumbnail:: /_images/model_d/autorun3.png
 
 --------------------------------------------------------------------------------------
 
 **2. M - LRF**
 
-.. thumbnail:: /_images/start_gui/autorun4.png
+.. thumbnail:: /_images/model_d/autorun4.png
 
 --------------------------------------------------------------------------------------
 
 **3. OP**
 
-.. thumbnail:: /_images/start_gui/autorun5.png
+.. thumbnail:: /_images/model_d/autorun5.png
 
 --------------------------------------------------------------------------------------
 
 **4. Navigation**
 
-.. thumbnail:: /_images/start_gui/autorun6.png
+.. thumbnail:: /_images/model_d/autorun6.png
 
 --------------------------------------------------------------------------------------
 
 **5. NaviRviz**
 
-.. thumbnail:: /_images/start_gui/autorun7.png
+.. thumbnail:: /_images/model_d/autorun7.png
 
 --------------------------------------------------------------------------------------
 
 **6. WPCtrl**
 
-.. thumbnail:: /_images/start_gui/autorun8.png
+.. thumbnail:: /_images/model_d/autorun8.png
 
 --------------------------------------------------------------------------------------
 
 **Finish**
 
-.. thumbnail:: /_images/start_gui/autorun9.png
+.. thumbnail:: /_images/model_d/autorun9.png
 
-.. thumbnail:: /_images/start_gui/autorun10.png  
+.. thumbnail:: /_images/model_d/autorun10.png  
 
 - After all tasks are completed, scheduling starts at the specified time.
