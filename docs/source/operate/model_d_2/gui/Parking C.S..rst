@@ -17,7 +17,7 @@ Carrying out automatic parking to the charging station
 
 ---------------------------------------------------------------------------------------
 
-.. thumbnail:: /_images/start_gui/parking3.jpg    
+.. thumbnail:: /_images/start_gui/parking3.png    
 
 - Go to the charging station location
 
@@ -25,7 +25,7 @@ Carrying out automatic parking to the charging station
 
 .. thumbnail:: /_images/start_gui/parking4.png
 
-- Charging station coordinates displayed in terminal
+- When you arrive at the charging station, a message is displayed on the terminal.
 
 --------------------------------------------------------------------------
 
@@ -60,9 +60,9 @@ Carrying out automatic parking to the charging station
 
 .. list-table::
 
-    * - .. thumbnail:: /_images/lecture/purple.jpg
+    * - .. thumbnail:: /_images/start_gui/charge10.jpg
             :group: basic1
-      - .. thumbnail:: /_images/lecture/green.jpg
+      - .. thumbnail:: /_images/start_gui/charge11.jpg
             :group: basic1
 
 - When a charging command is received, the LED changes to purple and moves in front of the station.
