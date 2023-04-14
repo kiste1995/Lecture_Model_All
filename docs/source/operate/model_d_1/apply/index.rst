@@ -12,3 +12,4 @@ Receives data from multiple sensors and cameras attached to the robot
      led
      sonar
      camera
+     sol
