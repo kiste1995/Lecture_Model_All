@@ -7,23 +7,23 @@ Creating maps for automated driving
 
 **Run Bringup & M - LRF**
 
-.. thumbnail:: /_images/start_gui/mapping.png
+.. thumbnail:: /_images/model_d/mapping.png
 
 --------------------------------------------------------------------------------------
 
 **Run SLAM(GM)**
 
-.. thumbnail:: /_images/start_gui/mapping2.png
+.. thumbnail:: /_images/model_d/mapping2.png
 
 --------------------------------------------------------------------------------------
 
 **Run SLAMRVIZ**
 
-.. thumbnail:: /_images/start_gui/mapping3.png
+.. thumbnail:: /_images/model_d/mapping3.png
 
-.. thumbnail:: /_images/start_gui/mapping5.png
+.. thumbnail:: /_images/model_d/mapping5.png
 
-.. thumbnail:: /_images/start_gui/mapping4.png
+.. thumbnail:: /_images/model_d/mapping4.png
 
 - After running SLAM RVIZ, follow the path as above.
 
@@ -31,7 +31,7 @@ Creating maps for automated driving
 
 **Draw Map**
 
-.. thumbnail:: /_images/start_gui/mapping6.png
+.. thumbnail:: /_images/model_d/mapping6.png
 
 - Draw the map while driving the robot using Motion ctrl.
 
@@ -39,17 +39,17 @@ Creating maps for automated driving
 
 **Save Map**
 
-.. thumbnail:: /_images/start_gui/mapping7.png
+.. thumbnail:: /_images/model_d/mapping7.png
 
 - After drawing the map, click save map.
 
-.. thumbnail:: /_images/start_gui/mapping8.png
+.. thumbnail:: /_images/model_d/mapping8.png
 
 - The command is automatically entered into the terminal and the map is saved.
 
-.. thumbnail:: /_images/start_gui/mapping9.png
+.. thumbnail:: /_images/model_d/mapping9.png
 
-.. thumbnail:: /_images/start_gui/mapping10.png
+.. thumbnail:: /_images/model_d/mapping10.png
 
 - png file showing the appearance of the map and a yaml file with the detailed data of the map are created.
 
